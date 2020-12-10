@@ -20,7 +20,7 @@ Hello, I'm Aditya Mangalampalli, a junior in High School interested in Machine L
 - 🔭 I’m currently working on a revamped continuation and improvmenent of [Eyenalysis](https://github.com/Alpheron/Eyenalysis).
 - 👯 I’m looking to collaborate on anything really. I love Machine Learning and everything open source!
 - 🌱 I’m currently learning Swift, Javascript, more advanced Machine Learning and about anything I can get my hands on!
-- 💬 Ask me about my profile picture, that's my puppy who recently turned 2. We an talk about anything via email listed below.
+- 💬 Ask me about my profile picture! That's my puppy who recently turned 2. Isn't he adorable? We can talk about anything via email listed below.
 - 📫 How to reach me: [via email here](mailto:aditya.mangalampalli@gmail.com)
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: Although I might be young, I started coding from age 6 so I ended up becoming fluent in Python before I learned Scratch.
