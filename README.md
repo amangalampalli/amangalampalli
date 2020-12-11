@@ -31,12 +31,12 @@ Hello, I'm Aditya Mangalampalli, a junior in High School interested in Machine L
 <code><img height="45" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opencv.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy-logo.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"></code>
+<code><img height="45" src="https://i.redd.it/c6h7rok9c2v31.jpg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
+<code><img height="45" src="https://1000logos.net/wp-content/uploads/2017/02/iOS-Logo-2013.jpg"></code>
 
 <i>NOTE: Top Languages doesn't represent my most skill level but rather my usage.</i>
 
