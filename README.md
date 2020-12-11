@@ -30,8 +30,11 @@ Hello, I'm Aditya Mangalampalli, a junior in High School interested in Machine L
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/opencv.svg"></code>
-<code><img height="45" src="https://camo.githubusercontent.com/906e661107a3bc03104ca5d88336d1f4b0e80fdcac65efaf7904041d371c747f/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b657261732e696f2f696d672f6b657261732d6c6f676f2d323031382d6c617267652d313230302e706e67"></code>
-<code><img height="45" src="https://camo.githubusercontent.com/c04e16c05de80dadbdc990884672fc941fdcbbfbb02b31dd48c248d010861426/68747470733a2f2f7777772e74656e736f72666c6f772e6f72672f696d616765732f74665f6c6f676f5f736f6369616c2e706e67"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/numpy-logo.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg"></code>
+<code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
 
