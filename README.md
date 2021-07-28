@@ -41,7 +41,7 @@ Hello, I'm Aditya Mangalampalli, a junior in High School interested in Machine L
 <i>NOTE: Top Languages doesn't represent my most skill level but rather my usage.</i>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpheron&theme=radical&hide=Dockerfile,Ruby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpheron&count_private=true&theme=radical&hide=Dockerfile,Ruby" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alpheron&show_icons=true&theme=radical" />
