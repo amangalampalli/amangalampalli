@@ -46,8 +46,8 @@ Hello, I'm Aditya Mangalampalli, a junior in High School interested in Machine L
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alpheron&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/Alpheron/UltimateGoalCV">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpheron&repo=UltimateGoalCV&theme=radical" />
+<a href="https://github.com/Alpheron/Eye-Tracking-Disease-Detection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpheron&repo=Eye-Tracking-Disease-Detection&theme=radical" />
 </a>
 <a href="https://github.com/Alpheron/Eyenalysis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpheron&repo=Eyenalysis&theme=radical" />
