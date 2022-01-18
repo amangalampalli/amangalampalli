@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Aditya Mangalampalli, a junior in High School interested in Machine Learning and Robotics.
+Hello, I'm Aditya Mangalampalli, a senior in High School interested in Machine Learning and Robotics.
 
 - 📖 I'm currently studying at Mission San Jose High School and will graduate in 2022.
 - 🔭 I’m currently working on a website to detect Neurological conditions. The website can be found here: [GazeDetect](https://gazedetect.vercel.app/).
