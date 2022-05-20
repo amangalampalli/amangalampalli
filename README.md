@@ -1,11 +1,11 @@
 ### Well hello there! Hi I'm Aditya 👋
 
 <!--
-**Alpheron/Alpheron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**amangalampalli/amangalampalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a revamped continuation and improvmenent of (Eyenalysis)[https://github.com/Alpheron/Eyenalysis]
+- 🔭 I’m currently working on a revamped continuation and improvmenent of (Eyenalysis)[https://github.com/amangalampalli/Eyenalysis]
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
@@ -41,14 +41,14 @@ Hello, I'm Aditya Mangalampalli, a senior in High School interested in Machine L
 <i>NOTE: Top Languages doesn't represent my most skill level but rather my usage.</i>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpheron&count_private=true&theme=radical&hide=Dockerfile,Ruby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangalampalli&count_private=true&theme=radical&hide=Dockerfile,Ruby" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alpheron&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amangalampalli&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Alpheron/Eye-Tracking-Disease-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpheron&repo=Eye-Tracking-Disease-Detection&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amangalampalli&repo=Eye-Tracking-Disease-Detection&theme=radical" />
 </a>
 <a href="https://github.com/Alpheron/Eyenalysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alpheron&repo=Eyenalysis&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amangalampalli&repo=Eyenalysis&theme=radical" />
 </a>
