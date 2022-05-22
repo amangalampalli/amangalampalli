@@ -1,4 +1,4 @@
-### Well hello there! Hi I'm Aditya 👋
+### Well hello there! Hi, I'm Aditya 👋
 
 <!--
 **amangalampalli/amangalampalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
