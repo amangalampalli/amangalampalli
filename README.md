@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 Hello, I'm Aditya Mangalampalli, a senior in High School interested in Machine Learning and Robotics.
 
 - 📖 I'm currently studying at Mission San Jose High School and will graduate in 2022.
-- 🔭 I’m currently working on a website to detect Neurological conditions. The website can be found here: [GazeDetect](https://gazedetect.vercel.app/).
 - 👯 I’m looking to collaborate on anything really. I love Machine Learning and everything open source!
 - 🌱 I’m currently learning Swift, Javascript, more advanced Machine Learning and about anything I can get my hands on!
 - 💬 Ask me about my profile picture! That's my puppy who recently turned 3. Isn't he adorable? We can talk about anything via email listed below.
@@ -45,10 +44,4 @@ Hello, I'm Aditya Mangalampalli, a senior in High School interested in Machine L
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amangalampalli&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/Alpheron/Eye-Tracking-Disease-Detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amangalampalli&repo=Eye-Tracking-Disease-Detection&theme=radical" />
-</a>
-<a href="https://github.com/Alpheron/Eyenalysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amangalampalli&repo=Eyenalysis&theme=radical" />
 </a>
