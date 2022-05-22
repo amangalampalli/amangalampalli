@@ -37,7 +37,7 @@ Hello, I'm Aditya Mangalampalli, a senior in High School interested in Machine L
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="45" src="https://1000logos.net/wp-content/uploads/2017/02/iOS-Logo-2013.jpg"></code>
 
-<i>NOTE: Top Languages doesn't represent my most skill level but rather my usage.</i>
+<i>NOTE: 'Most Used Languages' don't represent my most skill level but rather my usage.</i>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangalampalli&count_private=true&theme=radical&hide=Dockerfile,Ruby" />
