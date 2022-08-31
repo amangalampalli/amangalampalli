@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Aditya Mangalampalli, a rising Freshman at UC Berkeley interested in Machine Learning and Robotics.
+Hello, I'm Aditya Mangalampalli, a Freshman at UC Berkeley interested in Machine Learning and other forms of Computer Science.
 
 - 📖 I'm currently studying at University of California, Berkeley and will graduate in 2026 with a degree in Computer Science & Business.
 - 👯 I’m looking to collaborate on anything really. I love Machine Learning and everything open source!
