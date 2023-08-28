@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Aditya Mangalampalli, a Freshman at UC Berkeley interested in Machine Learning and other forms of Computer Science.
+Hello, I'm Aditya Mangalampalli, a Sophomore at UC Berkeley interested in Machine Learning and other forms of Computer Science.
 
-- 📖 I'm currently studying at University of California, Berkeley and will graduate in 2025 with a triple major in Computer Science, Applied Mathematics, & Business.
+- 📖 I'm currently studying at the University of California, Berkeley and will graduate in 2025 with a triple major in Computer Science, Applied Mathematics, & Statistics.
 - 👯 I’m looking to collaborate on anything really. I love Machine Learning and everything open source!
-- 🌱 I’m currently learning Swift, Javascript, more advanced Machine Learning and about anything I can get my hands on!
+- 🌱 I’m currently learning Swift, Javascript, more advanced Machine Learning, and anything I can get my hands on!
 - 💬 We can talk about anything via email listed below.
 - 📫 How to reach me: [via email here](mailto:aditya.mangalampalli@gmail.com)
 - 😄 Pronouns: He/him/his
