@@ -37,6 +37,8 @@ Hello, I'm Aditya Mangalampalli, a Sophomore at UC Berkeley interested in Machin
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="45" src="https://1000logos.net/wp-content/uploads/2017/02/iOS-Logo-2013.jpg"></code>
 
+![Organization Views](https://komarev.com/ghpvc/?username=amangalampalli&color=red)
+
 <i>NOTE: 'Most Used Languages' don't represent my most skill level but rather my usage.</i>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
