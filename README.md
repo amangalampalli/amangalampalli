@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Aditya Mangalampalli, a junior at UC Berkeley interested in Machine Learning and other forms of Computer Science.
+Hello, I'm Aditya Mangalampalli, a senior at UC Berkeley interested in low latency trading algorithms and quantitative investing.
 
-- 📖 I'm currently studying at the University of California, Berkeley and will graduate in 2026 with a triple major in Computer Science, Applied Mathematics, & Statistics.
+- 📖 I'm currently studying at the University of California, Berkeley and will graduate in 2026 with a double major in Statistics and Data Science.
 - 👯 I’m looking to collaborate on anything really. I love Machine Learning and everything open source!
 - 🌱 I’m currently learning Swift, Javascript, more advanced Machine Learning, and anything I can get my hands on!
 - 💬 We can talk about anything via email listed below.
