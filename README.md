@@ -1,28 +1,13 @@
 ### Well hello there! Hi, I'm Aditya 👋
 
-<!--
-**amangalampalli/amangalampalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a revamped continuation and improvmenent of (Eyenalysis)[https://github.com/amangalampalli/Eyenalysis]
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 Hello, I'm Aditya Mangalampalli, a senior at UC Berkeley interested in low latency trading algorithms and quantitative investing.
 
 - 📖 I'm currently studying at the University of California, Berkeley and will graduate in 2026 with a double major in Statistics and Data Science.
-- 👯 I’m looking to collaborate on anything really. I love Machine Learning and everything open source!
-- 🌱 I’m currently learning Swift, Javascript, more advanced Machine Learning, and anything I can get my hands on!
+- 🌱 I’m currently trying to slog through my last year of school before I graduate.
 - 💬 We can talk about anything via email listed below.
 - 📫 How to reach me: [via email here](mailto:aditya.mangalampalli@gmail.com)
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: Although I might be young, I started coding from age 8 so I ended up becoming fluent in Python before I learned Scratch.
+- ⚡ Fun fact: I have a cute dog back home who I love dearly. Somehow he has a lot of cat-like mannerisms which i find quirky.
 
 #### Languages, Tools, and Frameworks of Experience
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -34,8 +19,6 @@ Hello, I'm Aditya Mangalampalli, a senior at UC Berkeley interested in low laten
 <code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/valohai/ml-logos/master/tensorflow-tf.svg"></code>
-<code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="45" src="https://1000logos.net/wp-content/uploads/2017/02/iOS-Logo-2013.jpg"></code>
 
 ![Organization Views](https://komarev.com/ghpvc/?username=amangalampalli&color=red)
 
